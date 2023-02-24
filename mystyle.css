@@ -1,0 +1,100 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  /* adjust typography defaults */
+  body {
+    margin: 1rem;
+    line-height: normal;
+    background-color: #CD6F14; 
+  }
+
+  .box {
+    height: 1100px;
+    width:767px;
+    background-color:#F28C28;
+    vertical-align: middle;
+    margin-left: 500px;
+    margin-top:-60px;
+    }
+
+.image {
+  align-items: center;
+
+  margin-left: 500px;
+  margin-top: -515px;
+}
+
+.text1 {
+  font-family: 'Archivo Black', sans-serif;
+  font-size:165px ;
+  margin-left: 500px;
+  margin-top: -1070px;
+  position: absolute;
+}
+.text2 {
+  font-family: 'Archivo Black', sans-serif;
+  margin-left: 500px;
+  font-size:165px ;
+  position: absolute;
+  margin-top: -900px;
+}
+.text3{
+  font-family: 'Libre Baskerville';
+  margin-left: 1050px;
+  font-size: 40px;
+  margin-top: -880px;
+  position: absolute;
+}
+.text3o5{
+  font-family: 'Libre Baskerville';
+  margin-left: 1090px;
+  font-size: 40px;
+  margin-top: -880px;
+  position: absolute;
+}
+.text4{
+  font-family: 'Libre Baskerville';
+  margin-left: 1050px;
+  font-size: 40px;
+  margin-top: -800px;
+  position: absolute;
+}
+
+.text5{
+  font-family: 'Libre Baskerville';
+  margin-left: 500px;
+  font-size: 55px;
+  position: absolute;
+  margin-top: -710px;
+}
+.text6 {
+  font-family: 'Archivo Black', sans-serif;
+  margin-left: 650px;
+  font-size:165px ;
+  position: absolute;
+  margin-top: -760px;
+}
+.text7 {
+  font-family: 'Archivo Black', sans-serif;
+  margin-left: 500px;
+  font-size:158px ;
+  position: absolute;
+  margin-top: -600px;
+}
+.text8{
+  font-family: 'Libre Baskerville';
+  margin-left: 900px;
+  font-size: 30px;
+  position: absolute;
+  margin-top: -400px;
+}
+.text9{
+  font-family: 'Libre Baskerville';
+  margin-left: 900px;
+  font-size: 30px;
+  position: absolute;
+  margin-top: -350px;
+}
